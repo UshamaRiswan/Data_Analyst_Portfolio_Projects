@@ -67,7 +67,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_Skill_Demand](2_Project/2_Skill_Demand.ipynb).
+View my notebook with detailed steps here: [2_Skill_Demand](2_Project/2_Skill_Demand.ipynbhttps://github.com/UshamaRiswan/Python_Data_Projects/blob/166bd1e0e21785c854af68018df52aad0e781a13/2_Project/2_Skill_Demand.ipynb).
 
 ### Visualize Data
 
