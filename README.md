@@ -13,7 +13,7 @@ Hi, Data Nerds!! Welcome to my page:
     - Customizing Plots
     - Subplots
 
-### [Chapter 2: Project Build](/2_Project/)
+### [Chapter 2: Project](/2_Project/)
 
 - Investigating Top Skills in Data Science
     - Data Cleaning
