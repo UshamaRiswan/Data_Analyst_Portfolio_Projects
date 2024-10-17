@@ -208,7 +208,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](images/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)    
+![Most Optimal Skills for Data Analysts in the US]([images/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png](https://github.com/UshamaRiswan/Python_Data_Projects/blob/b0376c4f4be99bef6f1a097b95dca04f9dfb50e4/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png))    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
@@ -243,7 +243,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](images/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)  
+![Most Optimal Skills for Data Analysts in the US with Coloring by Technology]([images/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png](https://github.com/UshamaRiswan/Python_Data_Projects/blob/55010c70f74355019ab9d087ff6e1cff39fe115d/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png))  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 #### Insights:
