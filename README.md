@@ -21,7 +21,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     - Customizing Plots
     - Subplots
 
-### [Chapter 2: Project](/2_Python_Project/)
+### [Chapter 2: Python_Project](/2_Python_Project/)
 
 - Investigating Top Skills in Data Science
     - Data Cleaning
@@ -29,14 +29,15 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     - Data Visualization
     - Data Interpretation
 
-### [Chapter_3: Project](/3_Sql_Project/)
+### [Chapter_3: Sql_Project](/3_Sql_Project/)
 
--Investigating the Top Data Analyst jobs
+- Investigating the Top Data Analyst jobs
     - What are the top-paying data analyst jobs?
     - What skills are required for these top-paying jobs?
     - What skills are most in demand for data analysts?
     - Which skills are associated with higher salaries?
     - What are the most optimal skills to learn?
+
 
 ## Found a Typo? Want to Contribute?
 - If you find an error in this codebase, please feel free to make a pull request by:
