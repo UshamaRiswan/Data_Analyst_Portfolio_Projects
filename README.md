@@ -41,7 +41,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
  ### [Chapter_4: PowerBI_Project](/4_PowerBI_Project/)
 
  - HR Dashboard in a workforce environment
-     - A compelling data story telling.
+     - A compelling datastory telling.
      - With Findings and Recommendations. 
 
 
