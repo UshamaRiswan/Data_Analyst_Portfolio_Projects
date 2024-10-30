@@ -1,6 +1,6 @@
-## This dashboard provides a comprehensive overview of our current workforce.
+# This dashboard provides a comprehensive overview of our current workforce.
 
-# Key findings include:
+## Key findings include:
 
 A significant portion of our workforce is eligible for promotion, indicating untapped potential.
 We have a diverse workforce with a balanced gender representation.
