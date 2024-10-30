@@ -38,6 +38,12 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     - Which skills are associated with higher salaries?
     - What are the most optimal skills to learn?
 
+ ### [Chapter_4: PowerBI_Project](/4_PowerBI_Project/)
+
+ - HR Dashboard in a workforce environment
+     - A compelling data story telling.
+     - With Findings and Recommendations. 
+
 
 ## Found a Typo? Want to Contribute?
 - If you find an error in this codebase, please feel free to make a pull request by:
