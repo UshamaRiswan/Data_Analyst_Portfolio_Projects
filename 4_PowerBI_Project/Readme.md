@@ -67,7 +67,7 @@ Additional Considerations:
 This dashboard provides a snapshot of our current workforce. It is important to track these metrics over time to identify trends and make informed decisions.
 Consider incorporating additional data points to the dashboard, such as employee satisfaction, performance metrics, and turnover rates.
 
-[HR_Detail_page](Images/3_HR_Dashboard.png)
+![HR_Detail_page](Images/3_HR_Dashboard.png)
 
 A significant portion of our workforce is eligible for promotion, indicating untapped potential.
 We have a diverse workforce with a balanced gender representation.
