@@ -1,7 +1,7 @@
 # This dashboard provides a comprehensive overview of our current workforce.
 
 ## Key findings include:
-/Images/1_HR_Dashboard.png
+[HR_Home_page](Images/1_HR_Dashboard.png)
 
 A significant portion of our workforce is eligible for promotion, indicating untapped potential.
 We have a diverse workforce with a balanced gender representation.
