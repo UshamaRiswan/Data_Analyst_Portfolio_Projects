@@ -29,8 +29,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     - Data Visualization
     - Data Interpretation
 
-### [Chapter_3: Project]
-(/3_Sql_Project/)
+### [Chapter_3: Project](/3_Sql_Project/)
 
 -Investigating the Top Data Analyst jobs
     - What are the top-paying data analyst jobs?
